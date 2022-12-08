@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/baitap/static/css/main.2fad98e2.css",
+    "main.js": "/baitap/static/js/main.4a16a31b.js",
+    "static/js/787.0c3f432a.chunk.js": "/baitap/static/js/787.0c3f432a.chunk.js",
+    "static/media/image2.png": "/baitap/static/media/image2.489e078e0984cf6515b1.png",
+    "static/media/appstore.png": "/baitap/static/media/appstore.e25727d719c259376341.png",
+    "static/media/ggplay1.png": "/baitap/static/media/ggplay1.e9a10314498c9fc70932.png",
+    "static/media/capcha.png": "/baitap/static/media/capcha.41c39561c1e3c3ec4008.png",
+    "static/media/bigscan.png": "/baitap/static/media/bigscan.24c2ae3ee648475885ad.png",
+    "static/media/scan.png": "/baitap/static/media/scan.eee1ccecafde112cd0b0.png",
+    "index.html": "/baitap/index.html",
+    "main.2fad98e2.css.map": "/baitap/static/css/main.2fad98e2.css.map",
+    "main.4a16a31b.js.map": "/baitap/static/js/main.4a16a31b.js.map",
+    "787.0c3f432a.chunk.js.map": "/baitap/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fad98e2.css",
+    "static/js/main.4a16a31b.js"
+  ]
+}
